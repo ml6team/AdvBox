@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_sampling</folder>
+	<filename>IMG_20201009_093857.jpg</filename>
+	<path>/Users/alexandrubalan/Dev_Stuff/stealth-t-shirt/generator/data_sampling/IMG_20201009_093857.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1195</xmin>
+			<ymin>2505</ymin>
+			<xmax>1967</xmax>
+			<ymax>2895</ymax>
+		</bndbox>
+	</object>
+</annotation>

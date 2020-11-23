@@ -1,0 +1,26 @@
+<annotation>
+	<folder>adv-tshirt-hard-poses</folder>
+	<filename>IMG_20201020_090443.jpg</filename>
+	<path>/Users/alexandrubalan/Downloads/adv-tshirt-hard-poses/IMG_20201020_090443.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1522</xmin>
+			<ymin>1486</ymin>
+			<xmax>1913</xmax>
+			<ymax>1995</ymax>
+		</bndbox>
+	</object>
+</annotation>
